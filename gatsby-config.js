@@ -114,5 +114,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/tomrule007",
+  pathPrefix: "/img",
 }
