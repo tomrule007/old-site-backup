@@ -1,17 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Haezl`,
+    title: `Thomas J. Herzog - Blog & Portfolio`,
     author: {
-      name: "gatsby starter haezl",
+      name: "Thomas J. Herzog",
       image: "/img/me.png",
-      biography: "A lightweight, mobile first blog starter with infinite scroll \
-        and Material-UI design elements for Gatsby.",
+      biography: "Frontend JavaScript React Developer (in-training). Follow along as I become a self taught software developer :)",
     },
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
     networks: [
-      "https://twitter.com/iamhaezl",
-      "https://github.com/haezl/gatsby-starter-haezl",
-      "mailto:mail@haezl.at",
+      "https://github.com/tomrule007",
+      "https://www.linkedin.com/in/thomas-herzog-409ab573/",
+      "mailto:mail@tomrule007@gmail.com",
     ],
     about: '<p>A lightweight, mobile first blog starter with infinite scroll \
     and Material-UI design elements for \
@@ -23,7 +22,7 @@ module.exports = {
     To see a markdown blog entry in action click \
     <a href="/posts/markdown/markdown-test/">here</a>. \
     </p> \
-    ',
+    '
   },
   plugins: [
     `gatsby-plugin-tslint`,
